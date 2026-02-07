@@ -92,7 +92,9 @@ After struggling with Project Zomboid's modding workflow and seeing Hytale's int
 ## Contact
 
 If you wish to help with this project, please feel free to contact me on Discord: birphon
+
 You will need to start your message with something actually understandable to this project and not just a "Heyyy".
+
 When contacting me also include the accronym and the emoji I have in my discord bio
 
 ---
